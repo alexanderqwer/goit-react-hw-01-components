@@ -1,0 +1,18 @@
+.statisticsWrapper {
+  width: 268px;
+  height: 130px;
+  text-align: center;
+}
+.list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 65px;
+  height: 65px;
+}

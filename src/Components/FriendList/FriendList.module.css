@@ -1,0 +1,24 @@
+.item {
+  width: 400px;
+  height: 70px;
+  background-color: whitesmoke;
+  box-shadow: 0 0 10px black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.online {
+  background-color: green;
+  width: 12px;
+  height: 12px;
+  border-radius: 20px;
+}
+.ofline {
+  composes: online;
+  background-color: red;
+}
+.avatar {
+  text-align: left;
+}

@@ -1,0 +1,19 @@
+.transactionHistory {
+  width: 876px;
+  border: 1px solid rgb(228, 233, 240);
+}
+.menu {
+  background-color: rgb(0, 188, 213);
+  height: 40px;
+  color: white;
+}
+.transitionListData {
+  text-align: center;
+}
+.transitionListItem {
+  height: 40px;
+  background-color: rgb(236, 241, 244);
+}
+.transitionListItem:nth-child(odd) {
+  background-color: white;
+}
