@@ -5,17 +5,14 @@
   padding-top: 31px;
   margin-bottom: 50px;
 }
-
 .description {
   text-align: center;
 }
-
 .avatar {
   width: 100px;
   height: 100px;
   border-radius: 50%;
 }
-
 .location {
   display: flex;
   justify-content: space-around;
