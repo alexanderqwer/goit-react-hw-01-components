@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01-components/static/css/main.5744bcba.chunk.css",
-    "main.js": "/goit-react-hw-01-components/static/js/main.888af9b4.chunk.js",
-    "main.js.map": "/goit-react-hw-01-components/static/js/main.888af9b4.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-01-components/static/js/runtime-main.2e65a945.js",
-    "runtime-main.js.map": "/goit-react-hw-01-components/static/js/runtime-main.2e65a945.js.map",
-    "static/js/2.9872b7bd.chunk.js": "/goit-react-hw-01-components/static/js/2.9872b7bd.chunk.js",
-    "static/js/2.9872b7bd.chunk.js.map": "/goit-react-hw-01-components/static/js/2.9872b7bd.chunk.js.map",
+    "main.css": "/goit-react-hw-01-components/static/css/main.4bb30c41.chunk.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.ee10aaa7.chunk.js",
+    "main.js.map": "/goit-react-hw-01-components/static/js/main.ee10aaa7.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-01-components/static/js/runtime-main.4e062a2b.js",
+    "runtime-main.js.map": "/goit-react-hw-01-components/static/js/runtime-main.4e062a2b.js.map",
+    "static/js/2.353674cb.chunk.js": "/goit-react-hw-01-components/static/js/2.353674cb.chunk.js",
+    "static/js/2.353674cb.chunk.js.map": "/goit-react-hw-01-components/static/js/2.353674cb.chunk.js.map",
     "index.html": "/goit-react-hw-01-components/index.html",
-    "precache-manifest.b7a5f28bc5c70dbfe91e5067a89d1257.js": "/goit-react-hw-01-components/precache-manifest.b7a5f28bc5c70dbfe91e5067a89d1257.js",
+    "precache-manifest.1ac03197651b31d72c963fe3edf722c5.js": "/goit-react-hw-01-components/precache-manifest.1ac03197651b31d72c963fe3edf722c5.js",
     "service-worker.js": "/goit-react-hw-01-components/service-worker.js",
-    "static/css/main.5744bcba.chunk.css.map": "/goit-react-hw-01-components/static/css/main.5744bcba.chunk.css.map"
+    "static/css/main.4bb30c41.chunk.css.map": "/goit-react-hw-01-components/static/css/main.4bb30c41.chunk.css.map",
+    "static/js/2.353674cb.chunk.js.LICENSE.txt": "/goit-react-hw-01-components/static/js/2.353674cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e65a945.js",
-    "static/js/2.9872b7bd.chunk.js",
-    "static/css/main.5744bcba.chunk.css",
-    "static/js/main.888af9b4.chunk.js"
+    "static/js/runtime-main.4e062a2b.js",
+    "static/js/2.353674cb.chunk.js",
+    "static/css/main.4bb30c41.chunk.css",
+    "static/js/main.ee10aaa7.chunk.js"
   ]
 }
